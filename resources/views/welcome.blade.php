@@ -110,7 +110,7 @@
             <li>Praktik membuat halaman web sederhana.</li>
         </ul></br>
         <h2 class="subtitle">Metode</h2>
-        <p>Kegiatan dilakukan di Laboratorium Komputer SMP 10 Palembang pada 20 Desember 2024. Metode pelaksanaan meliputi ceramah, diskusi, dan praktik langsung.</p>
+        <p>Kegiatan dilakukan di Laboratorium Komputer SMP 10 Palembang pada 11 Desember 2024. Metode pelaksanaan meliputi ceramah, diskusi, dan praktik langsung.</p>
         <table class="table is-fullwidth"></br>
             <thead>
                 <tr>
@@ -133,7 +133,7 @@
 <section id="hasil" class="has-background-light animate-on-scroll">
     <div class="container">
         <h1 class="title has-text-centered">Hasil dan Pembahasan</h1>
-        <p>Kegiatan ini berhasil memberikan pemahaman dasar kepada siswa SMP 10 Palembang tentang teknologi web. Sebanyak 30 siswa mampu membuat halaman web sederhana menggunakan HTML dan CSS. Antusiasme peserta terlihat dari partisipasi aktif mereka selama kegiatan.</p>
+        <p>Kegiatan ini berhasil memberikan pemahaman dasar kepada siswa SMP 10 Palembang tentang teknologi web. Sebanyak 10 siswa mampu membuat halaman web sederhana menggunakan HTML dan CSS. Antusiasme peserta terlihat dari partisipasi aktif mereka selama kegiatan.</p>
     </div>
 </section></br>
 
